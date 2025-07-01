@@ -1,4 +1,4 @@
-const apiUrl = "https://grocerybackend.up.raiway.app/product";
+const apiUrl = "https://grocerybackend.up.railway.app/product";
 const productList = document.getElementById("product-list");
 const form = document.getElementById("product-form");
 
